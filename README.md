@@ -30,25 +30,50 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/15412561-ed55-4eaa-9434-886fa09db856" />
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First you must make an ticket as an end-user,to do this you have to sign in as the user that you craeted. Make the ticket (entire mobile/online banking system is down).
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="516" alt="image" src="https://github.com/user-attachments/assets/9b56cb81-8594-4db8-badf-87d45f7bb928" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next log in as your help desk agent. Opean the ticket then proceed to examine the ticket.
+Set Properties to the ticket,Sev-A (1 hour, 24/7) Online Banking Department
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="519" alt="image" src="https://github.com/user-attachments/assets/c5889af1-303f-42d7-b55e-298f8d7a06ba" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now Work the ticket to completion as your Sysadmins Agent
+  
+Set Properties to all the tickets; do SEV-A (SysAdmins last), observe ticket becomes inaccessible
+Switch to admin panel and assign yourself View-access to Sys Admins
+Switch to agent panel and observe the escalated ticket
+Observe that you can no longer make changes to it
+
+Solve all of the tickets
+Explain in most ticketing systems (probably this one too) there is an email capability so every time you update the ticket, the user gets a copy and they can respond
+
+Explain ticket intake IRL:
+Sometimes tickets get created via phone, chat app, email, web form, or maybe even you run into someone in your hall or they roll up on you at your desk.
+A lot of the time people will randomize you and try to get you to fix stuff on the spot. It’s fine to fix things on the spot, but generally speaking, you want to create tickets for EVERYTHING you do. (metrics are important)
+
+Finishing up and additional practice
+Obviously there is much more to this product that covered here
+Encourage the use and exploration of the email feature
+Do this lab a few more times, enough times where you’re able to implement it with this simple checklist. This will build your intuition.
+Talk about Technical skill pillar
+Re-touch on technical ability and re-doing the lab several
+
 </p>
 <br />
